@@ -1,5 +1,5 @@
 import { useGSAP } from "@gsap/react"
-import { SplitText,ScrollTrigger } from "gsap/all"
+import { SplitText } from "gsap/all"
 import gsap from "gsap"
 import { useMediaQuery } from "react-responsive";
 import { useRef } from "react";
